@@ -23,7 +23,7 @@ Trata-se de um cadastro web para alunos com autenticação de usuários e difere
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
 - **[Java 17](https://www.oracle.com/java)**
-- **[Spring Boot 3](https://spring.io/projects/spring-boot)**
+- **[Spring Boot](https://spring.io/projects/spring-boot)**
 - **[Maven](https://maven.apache.org)**
 - **[MySQL](https://www.mysql.com)**
 - **[Hibernate](https://hibernate.org)**
